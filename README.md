@@ -1,2 +1,2 @@
 # BPANet
-The code for BPANet will be publicly available upon acceptance of this paper.
+The source code of BPANet will be made publicly available upon acceptance of the corresponding paper.
