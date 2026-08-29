@@ -1,4 +1,4 @@
-"""Minimal inference dataset for IRSTD-1k, NUAA-SIRST, and NUDT-SIRST."""
+
 
 from __future__ import annotations
 
