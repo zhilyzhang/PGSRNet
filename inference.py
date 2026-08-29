@@ -1,4 +1,4 @@
-"""Unified evaluation and visualization for IRSTD-1k, NUAA-SIRST, and NUDT-SIRST."""
+
 
 from __future__ import annotations
 import os
